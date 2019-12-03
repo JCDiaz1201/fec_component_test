@@ -1,0 +1,16 @@
+:root{
+    --background-color: #0046be;
+}
+
+.nav-link {
+    color:white !important;
+}
+
+#nav {
+    color: white;
+}
+
+nav{
+    background-color: var(--background-color);
+}
+

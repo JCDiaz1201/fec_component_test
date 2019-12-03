@@ -1,0 +1,9 @@
+# VS code config
+.vscode
+
+# Jetbrains config
+.idea
+
+# NPM packages
+node_modules
+
